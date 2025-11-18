@@ -42,7 +42,7 @@ src
 🔧 How to Run Tests
 1. Clone the Repository
    
-git clone https://github.com/<your-username>/selenium-swaglabs-automation.git
+git clone [https://github.com/<your-username>/selenium-swaglabs-automation.git](https://github.com/PrashantPal04/Automation_project1.git)
 cd selenium-swaglabs-automation
 
 3. Install Dependencies
