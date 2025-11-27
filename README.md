@@ -33,37 +33,37 @@ src
 🔧 How to Run Tests
 1. Clone the Repository
    
-git clone https://github.com/PrashantPal04/Automation_project1.git
-cd selenium-swaglabs-automation
+`````git clone https://github.com/PrashantPal04/Automation_project1.git`````
+`````cd selenium-swaglabs-automation`````
 
 3. Install Dependencies
 
-mvn clean install
+`````mvn clean install`````
 
 4. Execute Test Suite
 
-mvn test
+`````mvn test`````
 
 5. Run Using TestNG
 
-testng testng.xml
+`````testng testng.xml`````
 
 🧪 Automated Test Scenarios
 
 → Login Tests
-    Valid login
-    Invalid login (wrong password)
-    Locked out user
-    Missing credentials
+   - Valid login
+   - Invalid login (wrong password)
+   - Locked out user
+   - Missing credentials
 → Products Page
-    Add item to cart
-    Remove item from cart
-    Verify product sorting
-    Product price validation
+   - Add item to cart
+   - Remove item from cart
+   - Verify product sorting
+   - Product price validation
 → Cart & Checkout
-    Verify added items
-    Checkout first name/last name validation
-    Complete order
+   - Verify added items
+   - Checkout first name/last name validation
+   - Complete order
 
 📊 Reports
 
@@ -73,14 +73,14 @@ Allure + TestNG HTML reports stored under:
 
 🛠 Tools Used
 
-→ Java
-→ Selenium
-→ TestNG
-→ Maven
-→ GitHub
-→ Allure Reports
-→ Log4j
-→ WebDriverManager
+- Java
+- Selenium
+- TestNG
+- Maven
+- GitHub
+- Allure Reports
+- Log4j
+- WebDriverManager
 
 👨‍💻 Author
 
