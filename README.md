@@ -17,8 +17,7 @@ This project tests the SwagLabs E-commerce Web Application → https://www.sauce
 
 🚀 Features
 
-✔ Page Object Model (POM)
-✔ TestNG Parallel Execution
+✔ Page Object Model (POM) <br> ✔ TestNG Parallel Execution
 ✔ Screenshot on Test Failure
 ✔ Log4j Logging
 ✔ Assertions
