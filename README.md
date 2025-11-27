@@ -17,31 +17,23 @@ This project tests the SwagLabs E-commerce Web Application → https://www.sauce
 
 🚀 Features
 
-✔ Page Object Model (POM) <br> ✔ TestNG Parallel Execution
-✔ Screenshot on Test Failure
-✔ Log4j Logging
-✔ Assertions
-✔ Config file for environment
-✔ Clean folder structure
-✔ Maven dependency management
-✔ TestNG XML test suite
-✔ Reports folder
+✔ Page Object Model (POM) <br> ✔ TestNG Parallel Execution <br> ✔ Screenshot on Test Failure <br> ✔ Log4j Logging <br> ✔ Assertions <br> ✔ Config file for environment <br> ✔ Clean folder structure <br> ✔ Maven dependency management <br> ✔ TestNG XML test suite <br> ✔ Reports folder
 
 🏗 Folder Structure
 src
- ├── main/java/com.prashant.base
- ├── test/java/com.prashant.pages
- ├── test/java/com.prashant.tests
- ├── test/resources
- ├── logs
- ├── screenshots
- ├── reports
- └── utilities
+ - main/java/com.prashant.base
+ - test/java/com.prashant.pages
+ - test/java/com.prashant.tests
+ - test/resources
+ - logs
+ - screenshots
+ - reports
+ - utilities
 
 🔧 How to Run Tests
 1. Clone the Repository
    
-git clone [https://github.com/<your-username>/selenium-swaglabs-automation.git](https://github.com/PrashantPal04/Automation_project1.git)
+git clone https://github.com/PrashantPal04/Automation_project1.git
 cd selenium-swaglabs-automation
 
 3. Install Dependencies
